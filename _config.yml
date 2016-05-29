@@ -23,7 +23,7 @@ color:
     - '#fdb813'
     - '#000000'
   brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.832666372647509
+  lightness: 0.8125
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
