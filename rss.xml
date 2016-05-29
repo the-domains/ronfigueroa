@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[RonFigueroa]]></title>
-        <description><![CDATA[RonFigueroa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Ron Figueroa]]></title>
+        <description><![CDATA[Ron Figueroa]]></description>
+        <link>https://thegrid.ai/ronfigueroa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 03:41:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 May 2016 04:03:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ronfigueroa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Let me share with you my Start-Up. </p>]]></description>
+            <link>https://thegrid.ai/ronfigueroa/let-me-share-with-you-my-start-up/index.html</link>
+            <guid isPermaLink="false">084d3a0a-b82e-46c3-b1b5-ca263a171348</guid>
+            <pubDate>Sun, 29 May 2016 04:03:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Personal Logo]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0977f12f-f836-4ab1-8e62-8aaceac60db5.png">]]></description>
-            <link>undefinedmy-personal-logo/index.html</link>
+            <link>https://thegrid.ai/ronfigueroa/my-personal-logo/index.html</link>
             <guid isPermaLink="false">b1c654a0-2a72-4090-8cfb-948b15b6cfbd</guid>
             <pubDate>Sun, 29 May 2016 03:41:00 GMT</pubDate>
         </item>
