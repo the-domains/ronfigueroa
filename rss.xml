@@ -4,7 +4,7 @@
         <description><![CDATA[Ron Figueroa]]></description>
         <link>https://thegrid.ai/ronfigueroa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 04:07:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 04:08:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ronfigueroa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/ronfigueroa/let-me-share-with-you-my-start-up/index.html</link>
             <guid isPermaLink="false">084d3a0a-b82e-46c3-b1b5-ca263a171348</guid>
             <pubDate>Sun, 29 May 2016 04:07:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Personal Logo]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0977f12f-f836-4ab1-8e62-8aaceac60db5.png">]]></description>
-            <link>https://thegrid.ai/ronfigueroa/my-personal-logo/index.html</link>
-            <guid isPermaLink="false">b1c654a0-2a72-4090-8cfb-948b15b6cfbd</guid>
-            <pubDate>Sun, 29 May 2016 03:41:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
