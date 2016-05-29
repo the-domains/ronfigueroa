@@ -1,6 +1,6 @@
 name: RonFigueroa
 favicon: null
-layout_spectrum: 0.4516303422860801
+layout_spectrum: 1
 typography_spectrum: 0.84798
 title: Ron Figueroa
 cta:
@@ -23,7 +23,7 @@ color:
     - '#fdb813'
     - '#000000'
   brandStrength: 0.5
-  lightness: 0.88762316852808
-  saturation: 0.8702037131879479
+  lightness: 0.8125
+  saturation: 0.875
   rhythmicContrast: 0.832666372647509
 purpose: []
